@@ -1,0 +1,123 @@
+{
+  "programs": [
+    {
+      "id": "7358870b-65c8-43d5-ab56-514bde52db88-0.1",
+      "programID": "11640",
+      "orchestra": "New York Philharmonic",
+      "season": "2011-12",
+      "concerts": [
+        {
+          "eventType": "Non-Subscription",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2011-09-07T04:00:00Z",
+          "Time": "7:30PM"
+        },
+        {
+          "eventType": "Non-Subscription",
+          "Location": "Manhattan, NY",
+          "Venue": "Avery Fisher Hall",
+          "Date": "2011-09-08T04:00:00Z",
+          "Time": "7:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "5733*",
+          "composerName": "Bernstein,  Leonard",
+          "workTitle": "WEST SIDE STORY (WITH FILM)",
+          "conductorName": "Newman, David",
+          "soloists": []
+        },
+        {
+          "ID": "0*",
+          "interval": "Intermission",
+          "soloists": []
+        }
+      ]
+    },
+    {
+      "id": "e0d79f25-6340-4369-a528-962bb03eabd7-0.1",
+      "programID": "11878",
+      "orchestra": "NYP Presentation",
+      "season": "2011-12",
+      "concerts": [
+        {
+          "eventType": "Insight Series",
+          "Location": "Manhattan, NY",
+          "Venue": "The Stanley H. Kaplan Penthouse",
+          "Date": "2011-09-09T04:00:00Z",
+          "Time": "6:30PM"
+        }
+      ],
+      "works": [
+        {
+          "ID": "5725*5",
+          "composerName": "Corigliano,  John, Jr.",
+          "workTitle": "ONE SWEET MORNING",
+          "movement": "One Sweet Morning",
+          "soloists": [
+            {
+              "soloistName": "Duke, Cherry",
+              "soloistInstrument": "Mezzo-Soprano",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Gosling, Stephen",
+              "soloistInstrument": "Piano",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "52611*",
+          "composerName": "Barber,  Samuel",
+          "workTitle": "ADAGIO FOR STRINGS",
+          "soloists": [
+            {
+              "soloistName": "Kim, Michelle",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Ziskel, Yulia",
+              "soloistInstrument": "Violin",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Rinehart, Robert",
+              "soloistInstrument": "Viola",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Moon-Myers, Eileen",
+              "soloistInstrument": "Cello",
+              "soloistRoles": "A"
+            }
+          ]
+        },
+        {
+          "ID": "11812*",
+          "composerName": "Discussion,",
+          "workTitle": "DISCUSSION",
+          "soloists": [
+            {
+              "soloistName": "Wiprud, Theodore",
+              "soloistInstrument": "Host",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Corigliano, John, Jr.",
+              "soloistInstrument": "Speaker",
+              "soloistRoles": "A"
+            },
+            {
+              "soloistName": "Haws, Barbara",
+              "soloistInstrument": "Speaker",
+              "soloistRoles": "A"
+            }
+          ]
+        }
+      ]
+    }]
+}
