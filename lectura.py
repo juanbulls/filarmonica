@@ -1,7 +1,8 @@
 import json
 from pprint import pprint
-with open(r"data.json") as f:
-	data=json.load(f)
+with open(r"2011light.json") as f:
+	datos=json.load(f)
 	pprint(data)
-print("se va a leer: \n id\n del primer\n maps\n asi: miniProgramas[programs][0][id] omitiendo comillas")
-input(data["maps"][0]["id"]+"\nSalir?")
+print("se va a leer: \n orchestra\n del primer\n programs\n asi: miniProgramas[programs][0][id] omitiendo comillas")
+resultado=data["programs"][0]["orchesta"]
+input(resultado+"\nSalir?")
