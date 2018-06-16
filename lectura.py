@@ -3,5 +3,5 @@ from pprint import pprint
 with open(r"2011light.json") as f:
 	datos=json.load(f)
 print("se va a leer: \n orchestra\n del primer\n programs\n asi: datos[programs][0][orchesta] omitiendo comillas")
-resultado=datos["programs"][0]["orchesta"]
+resultado=datos["programs"][0]["orchestra"]
 input(resultado+"\nSalir?")
