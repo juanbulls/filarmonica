@@ -1,4 +1,4 @@
-x=int(input("meta A"))
-y=int(input("meta B"))
-
-print(max(x,y))
+x=int(input("meta A\n"))
+y=int(input("meta B\n"))
+resultado = int(max(x,y))
+print("El maximo es " + str(resultado))
